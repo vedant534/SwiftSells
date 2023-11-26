@@ -4,8 +4,8 @@ SwiftSells is a cutting-edge Android application designed to enhance your buying
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Download Apk](#download-apk)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -32,6 +32,10 @@ SwiftSells is a cutting-edge Android application designed to enhance your buying
 - **User-Friendly Interface:**
   - Clear navigation between screens.
   - Responsive and visually appealing design.
+ 
+## Download APK
+
+You can download the APK for SwiftSells from the following link: [Download SwiftSells APK](https://drive.google.com/file/d/1LCdqJuSCSbLj2ARyJ3XBi9x6TMkyAIdI/view?usp=drive_link)
 
 ## Screenshots
 <div style="display:flex;flex-wrap:wrap">
@@ -42,10 +46,6 @@ SwiftSells is a cutting-edge Android application designed to enhance your buying
     <img src="/AddScreenInvalidate.jpeg" alt="App Screenshot" width="225" height="400" style="margin-right: 10px">
     <img src="/Dialog.jpeg" alt="App Screenshot" width="225" height="400">
 </div>
-
-## Download APK
-
-You can download the APK for SwiftSells from the following link: [SwiftSells APK]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1oG2LRDynE5h7F0RO0FVuDrUo-cnnm50s/view?usp=sharing))
 
 ## Getting Started
 ### Prerequisites
