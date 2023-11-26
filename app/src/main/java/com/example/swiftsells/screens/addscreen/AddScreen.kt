@@ -172,6 +172,11 @@ fun AddScreen(navController: NavHostController) {
                                     viewModel.pushProduct(myProduct)
                                     viewModel.onDismissDialog()
                                     navController.navigate(SwiftScreens.HomeScreen.name)
+                                    Toast.makeText(
+                                        context,
+                                        "Hooray!!\uD83C\uDF89\uD83C\uDF89 $productNameText is Listed on SwiftSells",
+                                        Toast.LENGTH_LONG
+                                    ).show()
                                 },
                                 colors = ButtonDefaults.buttonColors(
                                     containerColor = SecondaryColor,
@@ -352,6 +357,10 @@ fun AddScreen(navController: NavHostController) {
                             "Essential",
                             "Food And Beverages",
                             "Home Furniture",
+                            "Toys and Games",
+                            "Sports and Outdoors",
+                            "Groceries",
+                            "Travel and Luggage",
                             "OS",
                             "Out of Stock",
                             "Other",
@@ -359,7 +368,7 @@ fun AddScreen(navController: NavHostController) {
                             "Type A",
                             "Type B",
                             "Type C",
-                            "World Cup"
+                            "World Cup",
                         )
 
                         ddItem.forEach {
