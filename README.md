@@ -53,7 +53,7 @@ You can download the APK for SwiftSells from the following link: [Download Swift
 - Kotlin and Java Development Kit (JDK) installed.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/SwiftSells.git`
+1. Clone the repository
 2. Open the project in Android Studio.
 3. Run the app on an emulator or physical device.
 
